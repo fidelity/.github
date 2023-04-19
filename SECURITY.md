@@ -26,9 +26,6 @@ Fidelity will assess the severity of the issue and provide a disposition and tim
 
 Once a release has been scheduled, Fidelity will work with the reporter on communicating the discovery and resolution of the vulnerability.
 
-## Security concerns with Fidelity products and services
-
-Our open source maintainers are unable to respond or escalate issues beyond the scope of Fidelity's open source projects. If you have a security concern with your account or a non-open source Fidelity product or service, please [visit the Fidelity security site](https://www.fidelity.com/security/report-an-issue) for more information on the appropriate reporting path.
 
 ## Getting help
 
